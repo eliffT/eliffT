@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning NLP and Data Science.
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=eliffT&show_icons=true&theme=gradient) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=eliffT&show_icons=true&theme=radical) 
