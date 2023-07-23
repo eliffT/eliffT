@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning NLP and Data Science.
+🌱 I’m currently learning NLP, Data Science abd ML.
 
 📫 How to reach me: **elifftasdemirr@gmail.com**
 
@@ -55,4 +55,7 @@ Here are some ideas to get you started:
   <img align="left" alt="eliffT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eliffT&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-    
+
+<h2> Visitors: </h2>
+<img src= "https://profile-counter.glitch.me/{eliffT}/count.svg" />
+
