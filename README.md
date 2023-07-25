@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning NLP, Data Science abd ML.
+🌱 I’m currently learning NLP, Data Science and ML.
 
 📫 How to reach me: **elifftasdemirr@gmail.com**
 
