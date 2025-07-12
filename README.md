@@ -35,14 +35,12 @@ Here are some ideas to get you started:
 
 ### 🚀 Technologies & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
- <!-- <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white"/> -->
- 
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=java,python,postgres,mongodb,git,linux,redis" />
+  
+</div>
 
 ---
 
